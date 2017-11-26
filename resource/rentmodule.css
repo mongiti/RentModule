@@ -1,0 +1,20 @@
+html,body{
+	margin:0;
+	padding:0;
+}
+
+.sideA{
+	background: #fff;
+
+}
+.sideB{
+	background: url("images/white.jpg");
+}
+button #UploadImg{
+	width:300px;
+	height:200px;
+}
+.card-body input{
+	text-align: center;
+	margin-bottom: 3px;
+}
