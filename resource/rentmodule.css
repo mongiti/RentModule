@@ -18,3 +18,13 @@ button #UploadImg{
 	text-align: center;
 	margin-bottom: 3px;
 }
+.card{
+	margin: 5px;
+}
+.folder_Name{
+	color:black;
+
+}
+.folder_Number{
+	color:red;
+}
